@@ -1,0 +1,46 @@
+.btn-group{
+	width: 40%; 
+
+}
+.form-group{
+	display: inline-block;
+	width:40%;
+	margin-right: 3%;
+	margin-left: 2%;
+	font-size: 20px;
+}
+body{
+	background-color: #669AC1;
+}
+header{
+	border: 1%;
+}
+#comment-left{
+	float: left;
+}
+#comment-right{
+	float:right;
+}
+.right{
+	float: right;
+    width: 300px;
+
+ }
+ #caption{
+ 	float:right;
+ 	width: 50%;
+ 	font-size: 3em;
+ }
+ h2{
+ 	text-align: center;
+ }
+
+ .form-control{
+ 	font-size: 20px;
+
+ }
+ body{
+ 	color:#FFFDF4;
+ 	font-family:Lucida Grande;
+ }
+
